@@ -63,4 +63,3 @@ def CDT(usuario: str, capital: int, tiempo: int):
         respuesta = ("Para el usuario " + usuario + " La cantidad de dinero a recibir, según el monto inicial " + str(capital) + " para un tiempo de " + str(tiempo) + " meses es: " + str(valor_perdida))
 
     return (respuesta)
-
